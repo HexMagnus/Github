@@ -1,0 +1,2 @@
+# EstruturalSequencial
+ Exercicio_Estrutura_Sequencial

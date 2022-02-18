@@ -1,0 +1,2 @@
+module estrutura_sequencial {
+}
